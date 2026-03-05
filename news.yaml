@@ -1,3 +1,5 @@
 subscriptions:
   - name: Sabinok news
-    query: News about Sabinok
+    query: News about "Sabinok"
+  - name: Embedded rust
+    query: Rust on embedded systems
