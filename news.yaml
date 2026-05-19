@@ -1,5 +1,8 @@
 subscriptions:
   - name: Sabinok news
-    query: News about "Sabinok"
+    query: Sabinok Corporation
+    metadata:
+      location: Somerville, MA
+      entity_type: person
   - name: Embedded rust
     query: Rust on embedded systems
